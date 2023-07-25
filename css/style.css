@@ -13,11 +13,20 @@ h2{
 h3{
     color: goldenrod;
 }
-div{
+.page-1{
     background-color: goldenrod;
     width: 620px;
     color: black;
 }
+.page-2{
+    background-color: chocolate;
+    color: black;
+    width: 300px;
+
+}
 span{
     color: cadetblue;
+}
+.firstlist{
+    color: coral;
 }
