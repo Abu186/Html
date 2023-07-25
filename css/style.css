@@ -32,12 +32,15 @@ span{
    
 }
 .box{
-    background-color: chocolate;
-    color: black;
+    background-color: darkolivegreen;
+    background-image: url(../img/background.jpg);
+    color: antiquewhite;
     width: 350px;
     margin-top: 50px;
     margin-left: 500px;
     margin-bottom: 50px;
     padding: 50px;
     border: 5px solid white;
+    background-position: center;
+    background-size: cover;
 }
