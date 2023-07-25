@@ -13,3 +13,11 @@ h2{
 h3{
     color: goldenrod;
 }
+div{
+    background-color: goldenrod;
+    width: 620px;
+    color: black;
+}
+span{
+    color: cadetblue;
+}
