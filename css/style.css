@@ -5,13 +5,18 @@ body{
 }
 h1{
     color: greenyellow;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: papyrus, sans-serif;
+    text-align: center;
 }
 h2{
+    font-family: papyrus, sans-serif;
     color: goldenrod;
+    text-align: center;
 }
 h3{
     color: goldenrod;
+    font-family: cursive;
+    text-align: center;
 }
 .page-1{
     background-color: goldenrod;
@@ -43,4 +48,22 @@ span{
     border: 5px solid white;
     background-position: center;
     background-size: cover;
+}
+.box2{
+    background-color: darkolivegreen;
+    background-image: url(../img/avatar.jpeg);
+    color: antiquewhite;
+    width: 350px;
+    margin-top: 50px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    padding: 50px;
+    border: 5px solid white;
+    background-position: center;
+    background-size: cover;
+}
+.list1{
+    text-align: center;
+    color: antiquewhite;
+    margin-left: 50px;
 }
