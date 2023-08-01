@@ -2,6 +2,7 @@ body{
     background-color: black;
     color: antiquewhite;
     font-size: 21px;
+    text-align: center;
 }
 h1{
     color: greenyellow;
@@ -22,11 +23,13 @@ h3{
     background-color: goldenrod;
     width: 620px;
     color: black;
+    text-align: center;
 }
 .page-2{
     background-color: chocolate;
     color: black;
     width: 300px;
+    text-align: center;
 
 }
 span{
@@ -65,5 +68,24 @@ span{
 .list1{
     text-align: center;
     color: antiquewhite;
-    margin-left: 50px;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: aquamarine;
+}
+
+a:visited{
+    color: red;
+}
+a:hover,
+a:focus{
+    color: yellow;
+}
+a:active{
+    color: yellowgreen;
+}
+ul{
+    list-style-position: inside;
 }
